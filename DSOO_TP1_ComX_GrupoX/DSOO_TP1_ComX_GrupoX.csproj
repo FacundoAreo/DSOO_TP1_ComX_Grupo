@@ -56,7 +56,9 @@
   <ItemGroup>
     <Compile Include="Actividad.cs" />
     <Compile Include="ClubDeportivo.cs" />
-    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
