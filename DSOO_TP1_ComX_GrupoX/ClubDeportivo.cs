@@ -1,4 +1,5 @@
 ﻿/*
+ * Materia : Desarrollo de Sistemas Orientado a Objetos 1º C
  * User: Estudiante Equipo 5
  * Sanchez, Facundo Areo , facundo.areo@dgmail.com
  * Briant Alcides Gauna, gauna.br@gmail.com
@@ -7,7 +8,7 @@
  * link https://github.com/FacundoAreo/DSOO_TP1_ComX_Grupo
  * Date: 24/9/2024
  * Time: 20:08
- * 
+ * DSOO_TP1_ComC_Grupo5_Sanchez_Poli_Gauna_Gonzalez_Ap
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
