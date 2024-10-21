@@ -1,0 +1,17 @@
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.exe
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.deps.json
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.runtimeconfig.json
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.runtimeconfig.dev.json
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.dll
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\bin\Debug\netcoreapp3.1\Sistema_ClubDeportivo.pdb
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Login_Usuario.frmLogin.resources
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\SIstema_ClubDeportivo.frmMenu.resources
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\SIstema_ClubDeportivo.Properties.Resources.resources
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.csproj.GenerateResource.cache
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.AssemblyInfoInputs.cache
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.AssemblyInfo.cs
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.dll
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.pdb
+C:\Users\ran13\Desktop\Facultad\Objetos\Login Usuario\Login Usuario\obj\Debug\netcoreapp3.1\Sistema_ClubDeportivo.genruntimeconfig.cache
